@@ -1,1 +1,4 @@
 .resources/
+.claude/
+AGENTS.md
+CLAUDE.md
